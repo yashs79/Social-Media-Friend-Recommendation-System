@@ -10,7 +10,7 @@
 
 This project implements a sophisticated hybrid recommendation system for social media friend suggestions, combining advanced graph algorithms with machine learning techniques. By leveraging both network structure and content-based similarity, the system provides highly relevant friend recommendations that outperform traditional single-approach methods.
 
-![System Demo](https://friend-recommendation-system.streamlit.app/)
+### [▶️ Live Demo: Friend Recommendation System](https://friend-recommendation-system.streamlit.app/)
 
 ## ✨ Key Features
 
@@ -266,6 +266,8 @@ The web interface provides:
 - Detailed user profile information
 
 ![Streamlit Interface](https://via.placeholder.com/800x450?text=Streamlit+Interface+Screenshot)
+
+<!-- You can replace this placeholder with an actual screenshot of your Streamlit interface -->
 
 ## 💰 Performance Evaluation
 
