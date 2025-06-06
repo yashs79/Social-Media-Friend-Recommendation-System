@@ -292,7 +292,7 @@ The hybrid approach consistently outperforms single-algorithm methods across all
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/social-media-friend-recommendation.git
+git clone https://github.com/yashs79/social-media-friend-recommendation.git
 cd social-media-friend-recommendation
 ```
 
