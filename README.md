@@ -363,7 +363,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Your Name - [GitHub Profile](https://github.com/yourusername) - your.email@example.com
+Your Name - [GitHub Profile](https://github.com/yashs79) - yashs4783@gmail.com
 
 ## 👏 Acknowledgements
 
